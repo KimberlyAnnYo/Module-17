@@ -4,7 +4,7 @@ Introductory paragraph (replace this with your text)
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+I am going to explain the Matching an email regex homework. A matching email regex is used to confirm an email address. 
 
 ## Table of Contents
 
